@@ -1,0 +1,15 @@
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\bin\Debug\net6.0\TrabalhoSOP.exe
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\bin\Debug\net6.0\TrabalhoSOP.deps.json
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\bin\Debug\net6.0\TrabalhoSOP.runtimeconfig.json
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\bin\Debug\net6.0\TrabalhoSOP.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\bin\Debug\net6.0\TrabalhoSOP.pdb
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.csproj.AssemblyReference.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.AssemblyInfoInputs.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.AssemblyInfo.cs
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.csproj.CoreCompileInputs.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\refint\TrabalhoSOP.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.pdb
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\TrabalhoSOP.genruntimeconfig.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSOP\TrabalhoSOP\obj\Debug\net6.0\ref\TrabalhoSOP.dll
